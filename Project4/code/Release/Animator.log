@@ -1,0 +1,265 @@
+﻿  BezierCurveEvaluator.cpp
+F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\BezierCurveEvaluator.cpp(78,10): warning C4566: 유니버설 문자 이름 '\u00E9'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\BezierCurveEvaluator.cpp(108,20): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+  BSplineCurveEvaluator.cpp
+F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\BSplineCurveEvaluator.cpp(28,52): warning C4244: '인수': 'double'에서 'const float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\BSplineCurveEvaluator.cpp(29,90): warning C4244: '인수': 'double'에서 'const float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\BSplineCurveEvaluator.cpp(32,55): warning C4244: '인수': 'double'에서 'const float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\BSplineCurveEvaluator.cpp(32,32): warning C4244: '인수': 'double'에서 'const float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\BSplineCurveEvaluator.cpp(33,84): warning C4244: '인수': 'double'에서 'const float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\BSplineCurveEvaluator.cpp(33,46): warning C4244: '인수': 'double'에서 'const float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\BSplineCurveEvaluator.cpp(128,65): warning C4244: '인수': 'double'에서 'const float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\BSplineCurveEvaluator.cpp(128,38): warning C4244: '인수': 'double'에서 'const float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  C2Interpolating.cpp
+F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\C2Interpolating.cpp(63,13): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\C2Interpolating.cpp(64,13): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\C2Interpolating.cpp(78,11): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\C2Interpolating.cpp(94,11): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\C2Interpolating.cpp(117,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\C2Interpolating.cpp(125,14): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\C2Interpolating.cpp(126,14): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\C2Interpolating.cpp(129,14): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\C2Interpolating.cpp(130,14): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CatmullromCurveEvaluator.cpp
+F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\CatmullromCurveEvaluator.cpp(91,24): warning C4244: '인수': 'double'에서 'const float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\CatmullromCurveEvaluator.cpp(91,20): warning C4244: '인수': 'double'에서 'const float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  curve.cpp
+F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\curve.cpp(56,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\curve.cpp(187,14): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\curve.cpp(196,14): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\curve.cpp(209,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\curve.cpp(306,16): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\curve.cpp(338,16): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\curve.cpp(382,14): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\curve.cpp(402,14): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  curveevaluator.cpp
+  force.cpp
+  linearcurveevaluator.cpp
+  camera.cpp
+F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\camera.cpp(287,25): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
+F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\camera.cpp(289,27): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
+  modelerapp.cpp
+F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\modelerapp.cpp(41,2): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\modelerapp.cpp(132,39): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  modelerdraw.cpp
+F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\modelerdraw.cpp(170,22): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\modelerdraw.cpp(270,24): warning C4101: 'gluq' :참조되지 않은 지역 변수입니다.
+F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\modelerdraw.cpp(602,24): warning C4101: 'gluq' :참조되지 않은 지역 변수입니다.
+F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\modelerdraw.cpp(730,24): warning C4101: 'gluq' :참조되지 않은 지역 변수입니다.
+F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\modelerdraw.cpp(836,24): warning C4101: 'gluq' :참조되지 않은 지역 변수입니다.
+F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\modelerdraw.cpp(957,40): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\modelerdraw.cpp(958,40): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\modelerdraw.cpp(971,40): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\modelerdraw.cpp(972,40): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\modelerdraw.cpp(973,15): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\modelerdraw.cpp(1049,27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\modelerdraw.cpp(1051,21): warning C4244: '초기화 중': 'T'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              T=double
+          ]
+F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\modelerdraw.cpp(1052,21): warning C4244: '초기화 중': 'T'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              T=double
+          ]
+F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\modelerdraw.cpp(1053,21): warning C4244: '초기화 중': 'T'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              T=double
+          ]
+  modelerui.cpp
+F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\modelerui.cpp(57,3): warning C4996: '_splitpath': This function or variable may be unsafe. Consider using _splitpath_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\modelerui.cpp(86,3): warning C4996: '_splitpath': This function or variable may be unsafe. Consider using _splitpath_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\modelerui.cpp(109,3): warning C4996: '_splitpath': This function or variable may be unsafe. Consider using _splitpath_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\modelerui.cpp(246,23): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\modelerui.cpp(398,14): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\modelerui.cpp(399,17): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\modelerui.cpp(425,14): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\modelerui.cpp(437,14): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\modelerui.cpp(450,39): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\modelerui.cpp(460,35): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\modelerui.cpp(470,35): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\modelerui.cpp(561,11): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\modelerui.cpp(643,2): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\modelerui.cpp(732,2): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\modelerui.cpp(757,2): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\modelerui.cpp(776,38): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\modelerui.cpp(819,3): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  modeleruiwindows.cxx
+  modelerview.cpp
+  myModel.cpp
+  robotarm.cpp
+  bitmap.cpp
+F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\bitmap.cpp(57,20): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\bitmap.cpp(157,20): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  particle.cpp
+F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\particle.cpp(96,45): warning C4244: '인수': 'T'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              T=double
+          ]
+F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\particle.cpp(96,34): warning C4244: '인수': 'T'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              T=double
+          ]
+F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\particle.cpp(96,23): warning C4244: '인수': 'T'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              T=double
+          ]
+  particleSystem.cpp
+  point.cpp
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  pointObj.cpp
+  graphwidget.cpp
+F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\graphwidget.cpp(133,30): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\graphwidget.cpp(158,28): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\graphwidget.cpp(512,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\graphwidget.cpp(521,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\graphwidget.cpp(529,25): warning C4244: '인수': 'const int'에서 'const float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\graphwidget.cpp(529,16): warning C4244: '인수': 'const int'에서 'const float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\graphwidget.cpp(531,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\graphwidget.cpp(550,26): warning C4244: '인수': 'const int'에서 'const float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\graphwidget.cpp(550,17): warning C4244: '인수': 'const int'에서 'const float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\graphwidget.cpp(580,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\graphwidget.cpp(612,26): warning C4244: '인수': 'const int'에서 'const float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\graphwidget.cpp(612,17): warning C4244: '인수': 'const int'에서 'const float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\graphwidget.cpp(631,26): warning C4244: '인수': 'const int'에서 'const float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\graphwidget.cpp(631,17): warning C4244: '인수': 'const int'에서 'const float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\graphwidget.cpp(636,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\graphwidget.cpp(655,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\graphwidget.cpp(661,42): warning C4244: '인수': 'const int'에서 'const float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\graphwidget.cpp(661,33): warning C4244: '인수': 'const int'에서 'const float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\graphwidget.cpp(662,40): warning C4244: '인수': 'const int'에서 'const float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\graphwidget.cpp(662,31): warning C4244: '인수': 'const int'에서 'const float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\graphwidget.cpp(667,40): warning C4244: '인수': 'const int'에서 'const float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\graphwidget.cpp(667,31): warning C4244: '인수': 'const int'에서 'const float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\graphwidget.cpp(672,40): warning C4244: '인수': 'const int'에서 'const float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\graphwidget.cpp(672,31): warning C4244: '인수': 'const int'에서 'const float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\graphwidget.cpp(764,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\graphwidget.cpp(808,28): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\graphwidget.cpp(863,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\graphwidget.cpp(907,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\graphwidget.cpp(1037,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\graphwidget.cpp(1102,80): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\graphwidget.cpp(1109,81): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\graphwidget.cpp(1113,8): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\graphwidget.cpp(1114,8): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\graphwidget.cpp(1140,94): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\graphwidget.cpp(1141,95): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  indicatorwindow.cpp
+F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\indicatorwindow.cpp(40,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\indicatorwindow.cpp(126,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\indicatorwindow.cpp(148,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  rect.cpp
+  rulerwindow.cpp
+F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\rulerwindow.cpp(59,13): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\rulerwindow.cpp(61,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\rulerwindow.cpp(48,2): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\rulerwindow.cpp(74,2): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  tga.cpp
+F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\tga.cpp(41,17): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  코드를 생성하고 있습니다...
+fltk.lib(case.obj) : warning LNK4099: 'vc140.pdb' PDB를 'fltk.lib(case.obj)' 또는 'F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\Release\vc140.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+fltk.lib(filename_absolute.obj) : warning LNK4099: 'vc140.pdb' PDB를 'fltk.lib(filename_absolute.obj)' 또는 'F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\Release\vc140.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+fltk.lib(filename_expand.obj) : warning LNK4099: '' PDB를 'fltk.lib(filename_expand.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+fltk.lib(filename_isdir.obj) : warning LNK4099: 'vc140.pdb' PDB를 'fltk.lib(filename_isdir.obj)' 또는 'F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\Release\vc140.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+fltk.lib(filename_list.obj) : warning LNK4099: '' PDB를 'fltk.lib(filename_list.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+fltk.lib(filename_match.obj) : warning LNK4099: '' PDB를 'fltk.lib(filename_match.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+fltk.lib(Fl.obj) : warning LNK4099: 'vc140.pdb' PDB를 'fltk.lib(Fl.obj)' 또는 'F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\Release\vc140.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+fltk.lib(Fl_abort.obj) : warning LNK4099: 'vc140.pdb' PDB를 'fltk.lib(Fl_abort.obj)' 또는 'F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\Release\vc140.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+fltk.lib(fl_arc.obj) : warning LNK4099: 'vc140.pdb' PDB를 'fltk.lib(fl_arc.obj)' 또는 'F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\Release\vc140.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+fltk.lib(fl_arci.obj) : warning LNK4099: 'vc140.pdb' PDB를 'fltk.lib(fl_arci.obj)' 또는 'F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\Release\vc140.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+fltk.lib(fl_ask.obj) : warning LNK4099: 'vc140.pdb' PDB를 'fltk.lib(fl_ask.obj)' 또는 'F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\Release\vc140.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+fltk.lib(Fl_Bitmap.obj) : warning LNK4099: 'vc140.pdb' PDB를 'fltk.lib(Fl_Bitmap.obj)' 또는 'F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\Release\vc140.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+fltk.lib(Fl_Box.obj) : warning LNK4099: 'vc140.pdb' PDB를 'fltk.lib(Fl_Box.obj)' 또는 'F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\Release\vc140.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+fltk.lib(fl_boxtype.obj) : warning LNK4099: 'vc140.pdb' PDB를 'fltk.lib(fl_boxtype.obj)' 또는 'F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\Release\vc140.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+fltk.lib(Fl_Browser.obj) : warning LNK4099: 'vc140.pdb' PDB를 'fltk.lib(Fl_Browser.obj)' 또는 'F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\Release\vc140.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+fltk.lib(Fl_Browser_.obj) : warning LNK4099: 'vc140.pdb' PDB를 'fltk.lib(Fl_Browser_.obj)' 또는 'F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\Release\vc140.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+fltk.lib(Fl_Button.obj) : warning LNK4099: 'vc140.pdb' PDB를 'fltk.lib(Fl_Button.obj)' 또는 'F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\Release\vc140.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+fltk.lib(Fl_Check_Button.obj) : warning LNK4099: 'vc140.pdb' PDB를 'fltk.lib(Fl_Check_Button.obj)' 또는 'F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\Release\vc140.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+fltk.lib(Fl_Choice.obj) : warning LNK4099: 'vc140.pdb' PDB를 'fltk.lib(Fl_Choice.obj)' 또는 'F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\Release\vc140.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+fltk.lib(fl_color.obj) : warning LNK4099: 'vc140.pdb' PDB를 'fltk.lib(fl_color.obj)' 또는 'F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\Release\vc140.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+fltk.lib(Fl_compose.obj) : warning LNK4099: 'vc140.pdb' PDB를 'fltk.lib(Fl_compose.obj)' 또는 'F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\Release\vc140.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+fltk.lib(fl_cursor.obj) : warning LNK4099: 'vc140.pdb' PDB를 'fltk.lib(fl_cursor.obj)' 또는 'F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\Release\vc140.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+fltk.lib(fl_curve.obj) : warning LNK4099: 'vc140.pdb' PDB를 'fltk.lib(fl_curve.obj)' 또는 'F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\Release\vc140.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+fltk.lib(Fl_Device.obj) : warning LNK4099: '' PDB를 'fltk.lib(Fl_Device.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+fltk.lib(fl_dnd.obj) : warning LNK4099: 'vc140.pdb' PDB를 'fltk.lib(fl_dnd.obj)' 또는 'F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\Release\vc140.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+fltk.lib(Fl_Double_Window.obj) : warning LNK4099: 'vc140.pdb' PDB를 'fltk.lib(Fl_Double_Window.obj)' 또는 'F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\Release\vc140.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+fltk.lib(fl_draw.obj) : warning LNK4099: 'vc140.pdb' PDB를 'fltk.lib(fl_draw.obj)' 또는 'F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\Release\vc140.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+fltk.lib(fl_draw_image.obj) : warning LNK4099: 'vc140.pdb' PDB를 'fltk.lib(fl_draw_image.obj)' 또는 'F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\Release\vc140.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+fltk.lib(fl_draw_pixmap.obj) : warning LNK4099: 'vc140.pdb' PDB를 'fltk.lib(fl_draw_pixmap.obj)' 또는 'F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\Release\vc140.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+fltk.lib(Fl_File_Browser.obj) : warning LNK4099: 'vc140.pdb' PDB를 'fltk.lib(Fl_File_Browser.obj)' 또는 'F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\Release\vc140.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+fltk.lib(Fl_File_Chooser.obj) : warning LNK4099: 'vc140.pdb' PDB를 'fltk.lib(Fl_File_Chooser.obj)' 또는 'F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\Release\vc140.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+fltk.lib(Fl_File_Chooser2.obj) : warning LNK4099: 'vc140.pdb' PDB를 'fltk.lib(Fl_File_Chooser2.obj)' 또는 'F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\Release\vc140.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+fltk.lib(fl_file_dir.obj) : warning LNK4099: 'vc140.pdb' PDB를 'fltk.lib(fl_file_dir.obj)' 또는 'F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\Release\vc140.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+fltk.lib(Fl_File_Icon.obj) : warning LNK4099: 'vc140.pdb' PDB를 'fltk.lib(Fl_File_Icon.obj)' 또는 'F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\Release\vc140.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+fltk.lib(Fl_File_Input.obj) : warning LNK4099: 'vc140.pdb' PDB를 'fltk.lib(Fl_File_Input.obj)' 또는 'F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\Release\vc140.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+fltk.lib(fl_font.obj) : warning LNK4099: 'vc140.pdb' PDB를 'fltk.lib(fl_font.obj)' 또는 'F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\Release\vc140.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+fltk.lib(Fl_get_system_colors.obj) : warning LNK4099: 'vc140.pdb' PDB를 'fltk.lib(Fl_get_system_colors.obj)' 또는 'F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\Release\vc140.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+fltk.lib(Fl_grab.obj) : warning LNK4099: 'vc140.pdb' PDB를 'fltk.lib(Fl_grab.obj)' 또는 'F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\Release\vc140.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+fltk.lib(Fl_Group.obj) : warning LNK4099: 'vc140.pdb' PDB를 'fltk.lib(Fl_Group.obj)' 또는 'F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\Release\vc140.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+fltk.lib(fl_gtk.obj) : warning LNK4099: 'vc140.pdb' PDB를 'fltk.lib(fl_gtk.obj)' 또는 'F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\Release\vc140.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+fltk.lib(fl_gleam.obj) : warning LNK4099: '' PDB를 'fltk.lib(fl_gleam.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+fltk.lib(Fl_Image.obj) : warning LNK4099: 'vc140.pdb' PDB를 'fltk.lib(Fl_Image.obj)' 또는 'F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\Release\vc140.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+fltk.lib(Fl_Input.obj) : warning LNK4099: 'vc140.pdb' PDB를 'fltk.lib(Fl_Input.obj)' 또는 'F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\Release\vc140.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+fltk.lib(Fl_Input_.obj) : warning LNK4099: 'vc140.pdb' PDB를 'fltk.lib(Fl_Input_.obj)' 또는 'F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\Release\vc140.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+fltk.lib(fl_labeltype.obj) : warning LNK4099: '' PDB를 'fltk.lib(fl_labeltype.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+fltk.lib(Fl_Light_Button.obj) : warning LNK4099: 'vc140.pdb' PDB를 'fltk.lib(Fl_Light_Button.obj)' 또는 'F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\Release\vc140.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+fltk.lib(fl_line_style.obj) : warning LNK4099: 'vc140.pdb' PDB를 'fltk.lib(fl_line_style.obj)' 또는 'F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\Release\vc140.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+fltk.lib(Fl_lock.obj) : warning LNK4099: 'vc140.pdb' PDB를 'fltk.lib(Fl_lock.obj)' 또는 'F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\Release\vc140.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+fltk.lib(Fl_Menu.obj) : warning LNK4099: 'vc140.pdb' PDB를 'fltk.lib(Fl_Menu.obj)' 또는 'F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\Release\vc140.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+fltk.lib(Fl_Menu_.obj) : warning LNK4099: 'vc140.pdb' PDB를 'fltk.lib(Fl_Menu_.obj)' 또는 'F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\Release\vc140.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+fltk.lib(Fl_Menu_add.obj) : warning LNK4099: 'vc140.pdb' PDB를 'fltk.lib(Fl_Menu_add.obj)' 또는 'F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\Release\vc140.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+fltk.lib(Fl_Menu_Bar.obj) : warning LNK4099: 'vc140.pdb' PDB를 'fltk.lib(Fl_Menu_Bar.obj)' 또는 'F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\Release\vc140.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+fltk.lib(Fl_Menu_Button.obj) : warning LNK4099: 'vc140.pdb' PDB를 'fltk.lib(Fl_Menu_Button.obj)' 또는 'F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\Release\vc140.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+fltk.lib(Fl_Menu_Window.obj) : warning LNK4099: 'vc140.pdb' PDB를 'fltk.lib(Fl_Menu_Window.obj)' 또는 'F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\Release\vc140.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+fltk.lib(Fl_Overlay_Window.obj) : warning LNK4099: 'vc140.pdb' PDB를 'fltk.lib(Fl_Overlay_Window.obj)' 또는 'F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\Release\vc140.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+fltk.lib(Fl_Pack.obj) : warning LNK4099: 'vc140.pdb' PDB를 'fltk.lib(Fl_Pack.obj)' 또는 'F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\Release\vc140.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+fltk.lib(Fl_Pixmap.obj) : warning LNK4099: 'vc140.pdb' PDB를 'fltk.lib(Fl_Pixmap.obj)' 또는 'F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\Release\vc140.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+fltk.lib(fl_plastic.obj) : warning LNK4099: 'vc140.pdb' PDB를 'fltk.lib(fl_plastic.obj)' 또는 'F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\Release\vc140.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+fltk.lib(Fl_Preferences.obj) : warning LNK4099: 'vc140.pdb' PDB를 'fltk.lib(Fl_Preferences.obj)' 또는 'F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\Release\vc140.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+fltk.lib(fl_read_image.obj) : warning LNK4099: 'vc140.pdb' PDB를 'fltk.lib(fl_read_image.obj)' 또는 'F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\Release\vc140.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+fltk.lib(fl_rect.obj) : warning LNK4099: 'vc140.pdb' PDB를 'fltk.lib(fl_rect.obj)' 또는 'F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\Release\vc140.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+fltk.lib(Fl_Repeat_Button.obj) : warning LNK4099: 'vc140.pdb' PDB를 'fltk.lib(Fl_Repeat_Button.obj)' 또는 'F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\Release\vc140.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+fltk.lib(Fl_Return_Button.obj) : warning LNK4099: 'vc140.pdb' PDB를 'fltk.lib(Fl_Return_Button.obj)' 또는 'F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\Release\vc140.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+fltk.lib(fl_round_box.obj) : warning LNK4099: 'vc140.pdb' PDB를 'fltk.lib(fl_round_box.obj)' 또는 'F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\Release\vc140.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+fltk.lib(Fl_Scroll.obj) : warning LNK4099: 'vc140.pdb' PDB를 'fltk.lib(Fl_Scroll.obj)' 또는 'F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\Release\vc140.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+fltk.lib(fl_scroll_area.obj) : warning LNK4099: 'vc140.pdb' PDB를 'fltk.lib(fl_scroll_area.obj)' 또는 'F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\Release\vc140.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+fltk.lib(Fl_Scrollbar.obj) : warning LNK4099: 'vc140.pdb' PDB를 'fltk.lib(Fl_Scrollbar.obj)' 또는 'F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\Release\vc140.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+fltk.lib(Fl_Shared_Image.obj) : warning LNK4099: 'vc140.pdb' PDB를 'fltk.lib(Fl_Shared_Image.obj)' 또는 'F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\Release\vc140.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+fltk.lib(fl_shortcut.obj) : warning LNK4099: '' PDB를 'fltk.lib(fl_shortcut.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+fltk.lib(Fl_Single_Window.obj) : warning LNK4099: 'vc140.pdb' PDB를 'fltk.lib(Fl_Single_Window.obj)' 또는 'F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\Release\vc140.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+fltk.lib(Fl_Slider.obj) : warning LNK4099: 'vc140.pdb' PDB를 'fltk.lib(Fl_Slider.obj)' 또는 'F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\Release\vc140.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+fltk.lib(fl_symbols.obj) : warning LNK4099: 'vc140.pdb' PDB를 'fltk.lib(fl_symbols.obj)' 또는 'F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\Release\vc140.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+fltk.lib(Fl_Tabs.obj) : warning LNK4099: 'vc140.pdb' PDB를 'fltk.lib(Fl_Tabs.obj)' 또는 'F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\Release\vc140.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+fltk.lib(Fl_Tile.obj) : warning LNK4099: 'vc140.pdb' PDB를 'fltk.lib(Fl_Tile.obj)' 또는 'F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\Release\vc140.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+fltk.lib(Fl_Tiled_Image.obj) : warning LNK4099: 'vc140.pdb' PDB를 'fltk.lib(Fl_Tiled_Image.obj)' 또는 'F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\Release\vc140.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+fltk.lib(Fl_Tooltip.obj) : warning LNK4099: 'vc140.pdb' PDB를 'fltk.lib(Fl_Tooltip.obj)' 또는 'F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\Release\vc140.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+fltk.lib(fl_utf.obj) : warning LNK4099: 'vc140.pdb' PDB를 'fltk.lib(fl_utf.obj)' 또는 'F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\Release\vc140.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+fltk.lib(fl_utf8.obj) : warning LNK4099: 'vc140.pdb' PDB를 'fltk.lib(fl_utf8.obj)' 또는 'F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\Release\vc140.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+fltk.lib(Fl_Valuator.obj) : warning LNK4099: 'vc140.pdb' PDB를 'fltk.lib(Fl_Valuator.obj)' 또는 'F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\Release\vc140.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+fltk.lib(Fl_Value_Slider.obj) : warning LNK4099: 'vc140.pdb' PDB를 'fltk.lib(Fl_Value_Slider.obj)' 또는 'F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\Release\vc140.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+fltk.lib(fl_vertex.obj) : warning LNK4099: 'vc140.pdb' PDB를 'fltk.lib(fl_vertex.obj)' 또는 'F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\Release\vc140.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+fltk.lib(Fl_visual.obj) : warning LNK4099: 'vc140.pdb' PDB를 'fltk.lib(Fl_visual.obj)' 또는 'F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\Release\vc140.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+fltk.lib(Fl_Widget.obj) : warning LNK4099: 'vc140.pdb' PDB를 'fltk.lib(Fl_Widget.obj)' 또는 'F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\Release\vc140.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+fltk.lib(Fl_Window.obj) : warning LNK4099: 'vc140.pdb' PDB를 'fltk.lib(Fl_Window.obj)' 또는 'F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\Release\vc140.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+fltk.lib(Fl_Window_fullscreen.obj) : warning LNK4099: 'vc140.pdb' PDB를 'fltk.lib(Fl_Window_fullscreen.obj)' 또는 'F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\Release\vc140.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+fltk.lib(Fl_Window_hotspot.obj) : warning LNK4099: 'vc140.pdb' PDB를 'fltk.lib(Fl_Window_hotspot.obj)' 또는 'F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\Release\vc140.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+fltk.lib(Fl_Window_shape.obj) : warning LNK4099: 'vc140.pdb' PDB를 'fltk.lib(Fl_Window_shape.obj)' 또는 'F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\Release\vc140.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+fltk.lib(Fl_XBM_Image.obj) : warning LNK4099: 'vc140.pdb' PDB를 'fltk.lib(Fl_XBM_Image.obj)' 또는 'F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\Release\vc140.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+fltk.lib(Fl_XPM_Image.obj) : warning LNK4099: 'vc140.pdb' PDB를 'fltk.lib(Fl_XPM_Image.obj)' 또는 'F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\Release\vc140.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+fltk.lib(flstring.obj) : warning LNK4099: 'vc140.pdb' PDB를 'fltk.lib(flstring.obj)' 또는 'F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\Release\vc140.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+fltk.lib(is_spacing.obj) : warning LNK4099: 'vc140.pdb' PDB를 'fltk.lib(is_spacing.obj)' 또는 'F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\Release\vc140.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+fltk.lib(numericsort.obj) : warning LNK4099: 'vc140.pdb' PDB를 'fltk.lib(numericsort.obj)' 또는 'F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\Release\vc140.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+fltk.lib(scandir.obj) : warning LNK4099: 'vc140.pdb' PDB를 'fltk.lib(scandir.obj)' 또는 'F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\Release\vc140.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+fltk.lib(screen_xywh.obj) : warning LNK4099: 'vc140.pdb' PDB를 'fltk.lib(screen_xywh.obj)' 또는 'F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\Release\vc140.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+fltk.lib(vsnprintf.obj) : warning LNK4099: 'vc140.pdb' PDB를 'fltk.lib(vsnprintf.obj)' 또는 'F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\Release\vc140.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+fltkgl.lib(Fl_Gl_Choice.obj) : warning LNK4099: 'vc140.pdb' PDB를 'fltkgl.lib(Fl_Gl_Choice.obj)' 또는 'F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\Release\vc140.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+fltkgl.lib(Fl_Gl_Device_Plugin.obj) : warning LNK4099: 'vc140.pdb' PDB를 'fltkgl.lib(Fl_Gl_Device_Plugin.obj)' 또는 'F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\Release\vc140.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+fltkgl.lib(Fl_Gl_Window.obj) : warning LNK4099: 'vc140.pdb' PDB를 'fltkgl.lib(Fl_Gl_Window.obj)' 또는 'F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\Release\vc140.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+fltkgl.lib(gl_draw.obj) : warning LNK4099: 'vc140.pdb' PDB를 'fltkgl.lib(gl_draw.obj)' 또는 'F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\Release\vc140.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+  Animator.vcxproj -> F:\HKUST\4\Spring\COMP4411\Projects\Project4\AniSkelS20\code\Release\modeler.exe
